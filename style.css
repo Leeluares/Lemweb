@@ -7,7 +7,8 @@
     text-decoration: none;
     border: none;
     outline: none;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+
 }
 
 html{
@@ -20,6 +21,7 @@ body{
     overflow-x: hidden;
     background-color: black;
     color: white;
+    
 }
 
 header{
